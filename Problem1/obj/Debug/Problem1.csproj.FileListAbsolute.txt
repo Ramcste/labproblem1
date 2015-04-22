@@ -1,0 +1,5 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\Problem1\Problem1\obj\Debug\Problem1.pdb
